@@ -1,6 +1,6 @@
 import time
 import random
-from analyzer import Analyzer
+from simple_analyzer.analyzer import Analyzer
 
 def read_config():
     config = {}
